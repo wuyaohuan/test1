@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<!--  namespace 代表的是每一个mybatis的映射关系，值不可以重复，命名方式通常是包名 + 映射文件的名字
+    例如： com.fh.ClothingMapper
+-->
+<mapper namespace="com.fh.mapper.PhoneMapper">
+
+
+</mapper>
